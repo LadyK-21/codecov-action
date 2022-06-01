@@ -10,3 +10,5 @@ updates:
   schedule:
     interval: weekly
   open-pull-requests-limit: 10
+- name: Codecov
+  uses: codecov/codecov-action@v3.1.0
